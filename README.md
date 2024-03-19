@@ -13,3 +13,7 @@ https://getquicker.net/Sharedaction?code=2294eed2-32ed-41ba-3bd2-08d97b88c89f
 https://getquicker.net/Sharedaction?code=67b5842e-0ae9-426f-c8b3-08d975d5f90c
 
 再加以文档搜索辅助完成汉化，汉化逐步开放，有优先级高的，可以提出来，我优先协助汉化。
+
+2024年3月20日更新版本
+templater-obsidian2.2.3
+quickadd1.8.1
