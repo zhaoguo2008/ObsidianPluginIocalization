@@ -1,0 +1,30 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "zob-template",
+  "templates_pairs": [
+    [
+      "BeiJing",
+      "curl -H \"Accept-Language: zh-CN\" \"http://weather.eryajf.net/BeiJing.html\""
+    ],
+    [
+      "lastweek",
+      "data -v -1w '+%Y-w%w'"
+    ],
+    [
+      "nextweek",
+      "data -v +1w '+%Y-w%w'"
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "enable_ribbon_icon": true
+}
