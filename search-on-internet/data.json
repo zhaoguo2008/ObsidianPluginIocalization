@@ -1,0 +1,17 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.baidu.com/s?wd={{query}}",
+      "name": "Baidu",
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}
