@@ -20,3 +20,4 @@ quickadd1.8.1
 file-explorer-note-count1.2.1
 callout-manager1.0.1
 obsidian-emoji-toolbar0.4.1
+AdvancedTable0.21.0
