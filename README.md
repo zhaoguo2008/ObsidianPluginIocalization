@@ -30,3 +30,4 @@ obsidian-emoji-toolbar0.4.1<br>
 AdvancedTable0.21.0<br>
 MindMap1.1.0<br>
 ObisdianColumns1.5.2<br>
+search-on-internet0.50
