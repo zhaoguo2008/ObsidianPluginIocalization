@@ -21,10 +21,11 @@ https://getquicker.net/Sharedaction?code=67b5842e-0ae9-426f-c8b3-08d975d5f90c
 下载地址：https://github.com/efemkay/obsidian-modular-css-layout
 下载css文件：MCL-Multi-Column.css
 
-2024年3月20日更新版本
+2024年3月20日更新版本<br>
 templater-obsidian2.2.3
 quickadd1.8.1
 file-explorer-note-count1.2.1
 callout-manager1.0.1
 obsidian-emoji-toolbar0.4.1
 AdvancedTable0.21.0
+MindMap1.1.0
