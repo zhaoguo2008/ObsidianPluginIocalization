@@ -1,0 +1,85 @@
+{
+  "callouts": {
+    "custom": [
+      "收藏",
+      "Download",
+      "good"
+    ],
+    "settings": {
+      "test": [
+        {
+          "changes": {
+            "icon": "lucide-beer"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "52, 101, 89"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "21, 213, 165"
+          }
+        }
+      ],
+      "收藏": [
+        {
+          "changes": {
+            "icon": "lucide-alert-circle",
+            "color": "4, 156, 251"
+          }
+        }
+      ],
+      "Download": [
+        {
+          "changes": {
+            "icon": "lucide-download",
+            "color": "78, 22, 233"
+          }
+        }
+      ],
+      "good": [
+        {
+          "changes": {
+            "icon": "lucide-thumbs-up",
+            "color": "40, 242, 13"
+          }
+        }
+      ],
+      "description": [
+        {
+          "changes": {
+            "icon": "lucide-message-circle",
+            "color": "179, 40, 230"
+          }
+        }
+      ],
+      "seealso": [
+        {
+          "changes": {
+            "icon": "lucide-square-equal",
+            "color": "231, 246, 19"
+          }
+        }
+      ],
+      "failure": [
+        {
+          "changes": {}
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": false,
+    "theme": true,
+    "snippet": true
+  }
+}
