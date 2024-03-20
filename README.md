@@ -18,3 +18,5 @@ https://getquicker.net/Sharedaction?code=67b5842e-0ae9-426f-c8b3-08d975d5f90c
 templater-obsidian2.2.3
 quickadd1.8.1
 file-explorer-note-count1.2.1
+callout-manager1.0.1
+obsidian-emoji-toolbar0.4.1
